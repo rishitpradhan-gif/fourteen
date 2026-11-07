@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "grid_replays": 2750,
+  "exhaustive_width": 5,
+  "exhaustive_heights": [
+    5,
+    7,
+    9
+  ],
+  "random_cases": 2000,
+  "random_seed": 20261107,
+  "win_ply_histogram": {
+    "12": 96,
+    "8": 2204,
+    "14": 450
+  }
+}

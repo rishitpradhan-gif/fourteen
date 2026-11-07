@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "earliest_second_player_win_ply": 14,
+  "witness_columns_zero_based": [
+    0,
+    0,
+    2,
+    2,
+    3,
+    5,
+    1
+  ],
+  "discovered_states": 1885,
+  "expanded_by_completed_rounds": {
+    "0": 1,
+    "1": 7,
+    "2": 31,
+    "3": 100,
+    "4": 250,
+    "5": 508,
+    "6": 71
+  },
+  "path_coloring_cases": 11460
+}
