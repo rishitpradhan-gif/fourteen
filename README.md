@@ -1,5 +1,7 @@
 # Fourteen
 
+**[Download & run locally](LOCAL.md)** — a short guide and ready-to-run ZIP.
+
 **A sharp fourteen-ply obstruction to fixed pairing strategies in odd-board Connect Four.**
 
 For every odd width and height at least five, any universally legal fixed first-player matching response policy can be defeated by the second player by **ply 14**. A 7×5 example proves the uniform bound is sharp.
